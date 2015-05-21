@@ -1,4 +1,9 @@
 # gitbasics
 The very basics of git
 
-Ahmad Almatrood
+
+
+Remote chnage: Ahmad Almatrood
+
+
+Local change: Ahmad Almatrood
